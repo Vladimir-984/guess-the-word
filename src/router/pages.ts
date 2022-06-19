@@ -1,0 +1,6 @@
+export const PAGE_MAIN = '/'
+export const PAGE_OPTIONS = '/options'
+export const PAGE_SETTINGS = '/settings'
+export const PAGE_GAME = '/game'
+export const PAGE_PROFILE = '/profile'
+export const PAGE_STATISTICS = '/statictics'

@@ -1,0 +1,14 @@
+.vkuiPopoutRoot__popout:empty,.vkuiPopoutRoot--absolute:empty {
+    display: none;
+}
+
+.vkuiEpic .Panel--no-tabbar .vkuiPanel__in {
+    padding-bottom: 0px;
+}
+
+.vkuiButton.Button--round {
+    border-radius: 50px;
+}
+.Button--active-opacity {
+    transition: opacity .1s ease-out;
+}
