@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkguess_the_word=self.webpackChunkguess_the_word||[]).push([[793],{3793:function(e,s,u){u.r(s);var t=u(9779),n=u.n(t);n().init(),s.default=n()}}]);
-//# sourceMappingURL=793.6dcca581.chunk.js.map
